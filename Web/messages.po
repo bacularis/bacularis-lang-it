@@ -656,40 +656,60 @@ msgid "Bconsole custom config file path:"
 msgstr "Percorso del file di configurazione personalizzato di Bconsole:"
 
 msgid "Please enter bconsole custom config file path."
-msgstr "Inserisci il percorso del file di configurazione personalizzato bconsole."
+msgstr ""
+"Inserisci il percorso del file di configurazione personalizzato bconsole."
 
 msgid ""
 "For need defining more Baculum users with custom access or restricted "
 "console access (Bconsole ACLs) here is possible to determine custom bconsole"
 " configuration file format for each user."
-msgstr "Se è necessario definire più utenti Baculum con accesso personalizzato o accesso alla console limitato (ACL Bconsole), è possibile determinare un formato di file di configurazione bconsole personalizzato per ciascun utente."
+msgstr ""
+"Se è necessario definire più utenti Baculum con accesso personalizzato o "
+"accesso alla console limitato (ACL Bconsole), è possibile determinare un "
+"formato di file di configurazione bconsole personalizzato per ciascun "
+"utente."
 
 msgid ""
 "If there is used only one Baculum user then below field value will be "
 "ignored"
-msgstr "Se viene utilizzato un solo utente Baculum, il valore del campo sottostante verrà ignorato."
+msgstr ""
+"Se viene utilizzato un solo utente Baculum, il valore del campo sottostante "
+"verrà ignorato."
 
 msgid ""
 "{user} keyword will be replaced for each logged user into according "
 "username."
-msgstr "Se viene utilizzato un solo utente Baculum, il valore del campo sottostante verrà ignorato."
+msgstr ""
+"Se viene utilizzato un solo utente Baculum, il valore del campo sottostante "
+"verrà ignorato."
 
 msgid ""
 "If there is used only one Baculum user then below field value will be "
 "ignored."
-msgstr "Se viene utilizzato un solo utente Baculum, il valore del campo sottostante verrà ignorato."
+msgstr ""
+"Se viene utilizzato un solo utente Baculum, il valore del campo sottostante "
+"verrà ignorato."
 
 msgid ""
 "Above administration login and administration password will be used for "
 "login as administrator to Baculum WebGUI. They are your HTTP Basic "
 "authorization params by using which you will be logged in to Baculum."
-msgstr "Le credenziali di accesso e la password di amministrazione sopra indicate verranno utilizzate per accedere come amministratore alla WebGUI di Baculum. Si tratta dei parametri di autorizzazione HTTP Basic, tramite i quali si accederà a Baculum."
+msgstr ""
+"Le credenziali di accesso e la password di amministrazione sopra indicate "
+"verranno utilizzate per accedere come amministratore alla WebGUI di Baculum."
+" Si tratta dei parametri di autorizzazione HTTP Basic, tramite i quali si "
+"accederà a Baculum."
 
 msgid ""
 "If all above steps will not help or if during installation you made mistake "
 "in password in Initial Wizard, please remove settings file located in "
 "baculum/protected/Data/settings.conf and re-run Initial wizard."
-msgstr "Se tutti i passaggi precedenti non dovessero essere d'aiuto o se durante l'installazione hai commesso un errore nella password nella procedura guidata iniziale, rimuovi il file di impostazioni che si trova in baculum/protected/Data/settings.conf e riesegui la procedura guidata iniziale."
+msgstr ""
+"Se tutti i passaggi precedenti non dovessero essere d'aiuto o se durante "
+"l'installazione hai commesso un errore nella password nella procedura "
+"guidata iniziale, rimuovi il file di impostazioni che si trova in "
+"baculum/protected/Data/settings.conf e riesegui la procedura guidata "
+"iniziale."
 
 msgid "Action:"
 msgstr "Azione :"
@@ -701,7 +721,10 @@ msgid ""
 "This action will clear bvfs cache that was created during preparing restore "
 "files. There is not recommended use this action during restore job working. "
 "Are you sure?"
-msgstr "Questa azione cancellerà la cache BVFS creata durante la preparazione dei file di ripristino. Si sconsiglia di utilizzare questa azione durante l'esecuzione del processo di ripristino. Sei sicuro?"
+msgstr ""
+"Questa azione cancellerà la cache BVFS creata durante la preparazione dei "
+"file di ripristino. Si sconsiglia di utilizzare questa azione durante "
+"l'esecuzione del processo di ripristino. Sei sicuro?"
 
 msgid ""
 "Debug files enable possibility to save most of actions executed on Bacularis"
@@ -710,7 +733,14 @@ msgid ""
 "can be useful for detecting a problems in Bacularis working. After "
 "confirmation this message Bacularis debug files will be continuously saving "
 "in /protected/Web/Logs/ directory. Are you sure?"
-msgstr "I file di debug consentono di salvare la maggior parte delle azioni eseguite sulla WebGUI di Bacularis. La funzionalità di debug dovrebbe essere abilitata in caso di problemi con Bacularis o se qualcosa sembra un bug. I log possono essere utili per rilevare eventuali problemi di funzionamento di Bacularis. Dopo la conferma, questo messaggio indica che i file di debug di Bacularis verranno salvati nella directory /protected/Web/Logs/. Sei sicuro?"
+msgstr ""
+"I file di debug consentono di salvare la maggior parte delle azioni eseguite"
+" sulla WebGUI di Bacularis. La funzionalità di debug dovrebbe essere "
+"abilitata in caso di problemi con Bacularis o se qualcosa sembra un bug. I "
+"log possono essere utili per rilevare eventuali problemi di funzionamento di"
+" Bacularis. Dopo la conferma, questo messaggio indica che i file di debug di"
+" Bacularis verranno salvati nella directory /protected/Web/Logs/. Sei "
+"sicuro?"
 
 msgid "10 elements"
 msgstr "10 elementi"
@@ -768,7 +798,12 @@ msgid ""
 "consuming actions, web browser request may timed out after 30 seconds. It "
 "this case action will be canceled and in consequence the action may not "
 "touch all selected elements. Are you sure you want to continue?"
-msgstr "Attenzione! Hai selezionato più di 50 elementi. Tieni presente che, in caso di azioni che richiedono più tempo, la richiesta del browser web potrebbe scadere dopo 30 secondi. In questo caso, l'azione verrà annullata e di conseguenza potrebbe non toccare tutti gli elementi selezionati. Vuoi continuare?"
+msgstr ""
+"Attenzione! Hai selezionato più di 50 elementi. Tieni presente che, in caso "
+"di azioni che richiedono più tempo, la richiesta del browser web potrebbe "
+"scadere dopo 30 secondi. In questo caso, l'azione verrà annullata e di "
+"conseguenza potrebbe non toccare tutti gli elementi selezionati. Vuoi "
+"continuare?"
 
 msgid "Close the window"
 msgstr "Chiudi la finestra"
@@ -4182,8 +4217,8 @@ msgid ""
 "Please mount volume %volume or label a new one for storage: %storage, pool: "
 "%pool, media type: %mediatype."
 msgstr ""
-"Monta il volume %volume o etichetta uno nuovo per l\\'archiviazione: %storage,"
-" pool: %pool, tipo di supporto: %mediatype."
+"Monta il volume %volume o etichetta uno nuovo per l\\'archiviazione: "
+"%storage, pool: %pool, tipo di supporto: %mediatype."
 
 msgid ""
 "Please mount volume %volume for storage: %storage, pool: %pool, media type: "
@@ -5025,13 +5060,17 @@ msgid "Enable audit log"
 msgstr "Abilita log di controllo"
 
 msgid "Audit log enables to log and track all important user actions."
-msgstr "Il log di controllo consente di registrare e tenere traccia di tutte le azioni importanti dell'utente."
+msgstr ""
+"Il log di controllo consente di registrare e tenere traccia di tutte le "
+"azioni importanti dell'utente."
 
 msgid "Maximum number of log entries"
 msgstr "Numero massimo di voci di registro"
 
 msgid "Maximum number of log lines stored in the audit log file."
-msgstr "Numero massimo di righe di registro memorizzate nel file di log di controllo."
+msgstr ""
+"Numero massimo di righe di registro memorizzate nel file di log di "
+"controllo."
 
 msgid "Log types"
 msgstr "Tipi di log"
@@ -5042,22 +5081,30 @@ msgstr "Applicazione"
 msgid ""
 "This category logs actions on Bacula configuration like saving, creating or "
 "removing Bacula resources."
-msgstr "Questa categoria registra le azioni sulla configurazione di Bacula, come il salvataggio, la creazione o la rimozione di risorse di Bacula."
+msgstr ""
+"Questa categoria registra le azioni sulla configurazione di Bacula, come il "
+"salvataggio, la creazione o la rimozione di risorse di Bacula."
 
 msgid ""
 "This category logs application specific actions like adding, editing or "
 "removing users, roles, API hosts and others."
-msgstr "Questa categoria registra le azioni specifiche dell'applicazione, come l'aggiunta, la modifica o la rimozione di utenti, ruoli, host API e altre."
+msgstr ""
+"Questa categoria registra le azioni specifiche dell'applicazione, come "
+"l'aggiunta, la modifica o la rimozione di utenti, ruoli, host API e altre."
 
 msgid ""
 "This category logs actions possible to run by users like running backup or "
 "restore and others."
-msgstr "Questa categoria registra le azioni che possono essere eseguite dagli utenti, come l'esecuzione di backup o ripristino e altre."
+msgstr ""
+"Questa categoria registra le azioni che possono essere eseguite dagli "
+"utenti, come l'esecuzione di backup o ripristino e altre."
 
 msgid ""
 "This category logs security issues like log in actions, log in failed or 2FA"
 " failed."
-msgstr "Questa categoria registra problemi di sicurezza come azioni di accesso, accesso non riuscito o 2FA non riuscito."
+msgstr ""
+"Questa categoria registra problemi di sicurezza come azioni di accesso, "
+"accesso non riuscito o 2FA non riuscito."
 
 msgid "IP address"
 msgstr "Indirizzo IP"
@@ -7593,3 +7640,530 @@ msgstr ""
 
 msgid "Go to"
 msgstr "Vai a"
+
+msgid "Plugin not installed"
+msgstr "Plugin non installato"
+
+msgid "Organization"
+msgstr "Organizzazione"
+
+msgid ""
+"Cannot change organization. A username with the same name already exists in "
+"the selected organization."
+msgstr ""
+"Impossibile cambiare organizzazione. Un nome utente con lo stesso nome "
+"esiste già nell'organizzazione selezionata."
+
+msgid "or use"
+msgstr "o utilizza"
+
+msgid "Organizations"
+msgstr "Organizzazioni"
+
+msgid "Auth methods"
+msgstr "Metodi di autenticazione"
+
+msgid "Identity providers"
+msgstr "Fornitori di identità"
+
+msgid "Provision user"
+msgstr "Fornisci utente"
+
+msgid "New user role"
+msgstr "Nuovo ruolo utente"
+
+msgid "New user API host"
+msgstr "Nuovo host API utente"
+
+msgid "Add new identity provider"
+msgstr "Aggiungi nuovo fornitore di identità"
+
+msgid "Edit identity provider"
+msgstr "Modifica fornitore di identità"
+
+msgid "Add identity provider"
+msgstr "Aggiungi fornitore di identità"
+
+msgid "Identity provider identifier"
+msgstr "Identificatore del fornitore di identità"
+
+msgid "Identity provider name"
+msgstr "Nome del fornitore di identità"
+
+msgid ""
+"This is the Single Sign-On (SSO) authentication method with using the OpenID"
+" Connect (OIDC) protocol. It is realized with an external identity provider."
+msgstr ""
+"Questo è il metodo di autenticazione Single Sign-On (SSO) utilizzando il "
+"protocollo OpenID Connect (OIDC). Viene realizzato con un fornitore di "
+"identità esterno."
+
+msgid "Redirect URI"
+msgstr "Reindirizza URI"
+
+msgid "Endpoints and functions"
+msgstr "Endpoint e funzioni"
+
+msgid "Use discovery endpoint"
+msgstr "Usa endpoint di scoperta"
+
+msgid "Discovery URL"
+msgstr "URL di scoperta"
+
+msgid "Authorization URL"
+msgstr "URL di autorizzazione"
+
+msgid "Token URL"
+msgstr "URL token"
+
+msgid "Logout URL"
+msgstr "URL di logout"
+
+msgid "User Info URL"
+msgstr "URL informazioni utente"
+
+msgid "Validate signatures"
+msgstr "Valida firme"
+
+msgid "Use JWKS endpoint"
+msgstr "Usa endpoint JWKS"
+
+msgid "Use PKCE"
+msgstr "Usa PKCE"
+
+msgid "PKCE method"
+msgstr "Metodo PKCE"
+
+msgid "Scope"
+msgstr "Ambito"
+
+msgid "Credentials"
+msgstr "Credenziali"
+
+msgid "Client ID"
+msgstr "ID cliente"
+
+msgid "Client secret"
+msgstr "Segreto del cliente"
+
+msgid "User attribute source"
+msgstr "Origine attributo utente"
+
+msgid "Username attribute"
+msgstr "Attributo nome utente"
+
+msgid "Long name attribute"
+msgstr "Attributo nome lungo"
+
+msgid "Email attribute"
+msgstr "Attributo email"
+
+msgid "Description attribute"
+msgstr "Attributo descrizione"
+
+msgid "Attribute sync. policy"
+msgstr "Politica di sincronizzazione attributi."
+
+msgid "Do not synchronize"
+msgstr "Non sincronizzare"
+
+msgid "Synchronize on each login"
+msgstr "Sincronizza ad ogni accesso"
+
+msgid "JWKS URL"
+msgstr "URL JWKS"
+
+msgid "Public key (PEM format)"
+msgstr "Chiave pubblica (formato PEM)"
+
+msgid "Public key ID"
+msgstr "ID chiave pubblica"
+
+msgid "Add new organization"
+msgstr "Aggiungi nuova organizzazione"
+
+msgid "Add organization"
+msgstr "Aggiungi organizzazione"
+
+msgid "Organization identifier"
+msgstr "Identificatore dell'organizzazione"
+
+msgid "Use current auth method"
+msgstr "Usa metodo di autenticazione corrente"
+
+msgid "Use identity provider"
+msgstr "Usa fornitore di identità"
+
+msgid "Identity provider"
+msgstr "Fornitore di identità"
+
+msgid "Login button color"
+msgstr "Colore del pulsante di accesso"
+
+msgid "Organization:"
+msgstr "Organizzazione:"
+
+msgid "IdP name"
+msgstr "Nome IdP"
+
+msgid "IdP type"
+msgstr "Tipo IdP"
+
+msgid "Auth method"
+msgstr "Metodo autenticazione"
+
+msgid "Edit organization"
+msgstr "Modifica organizzazione"
+
+msgid "Default organization for imported users:"
+msgstr "Organizzazione predefinita per gli utenti importati:"
+
+msgid "New user organization"
+msgstr "Nuova organizzazione utente"
+
+msgid ""
+"If you use your own identity provider (IdP) to authenticate users, you can "
+"configure Bacularis to use it. You can define one or multiple identity "
+"providers across different domains. This also enables single sign-on (SSO) "
+"support with the OpenID Connect authentication protocol. Identity providers "
+"are associated with organizations. Each organization can have its own "
+"identity provider."
+msgstr ""
+"Se utilizzi il tuo fornitore di identità (IdP) per autenticare gli utenti, è"
+" possibile configurare Bacularis per utilizzarlo. Puoi definire uno o più "
+"fornitori di identità su diversi domini. Ciò consente anche il supporto per "
+"l'accesso singolo (SSO) con il protocollo di autenticazione OpenID Connect. "
+"I fornitori di identità sono associati alle organizzazioni. Ogni "
+"organizzazione può avere il suo fornitore di identità."
+
+msgid ""
+"Select one of the authentication methods to provide base authentication."
+msgstr ""
+"Seleziona uno dei metodi di autenticazione per fornire l'autenticazione di "
+"base."
+
+msgid ""
+"Organizations help divide users into departments or other groups (e.g., "
+"sales department, finance department...). This facilitates user management "
+"within structures and allows separate authentication type for each "
+"organization. They are also useful for enabling single sign-on (SSO) with "
+"using the OpenID Connect authentication protocol."
+msgstr ""
+"Le organizzazioni aiutano a dividere gli utenti in dipartimenti o altri "
+"gruppi (ad es. dipartimento vendite, dipartimento finanziario...). Ciò "
+"facilita la gestione degli utenti all'interno delle strutture e consente un "
+"tipo di autenticazione separato per ogni organizzazione. Sono anche utili "
+"per abilitare l'accesso singolo (SSO) con l'uso del protocollo di "
+"autenticazione OpenID Connect."
+
+msgid "IdP ID"
+msgstr "ID IdP"
+
+msgid ""
+"The following organizations cannot be removed because they contain users. "
+"Please unassign users from these organizations and try again."
+msgstr ""
+"Le seguenti organizzazioni non possono essere rimosse perché contengono "
+"utenti. Si prega di deselezionare gli utenti da queste organizzazioni e "
+"riprovare."
+
+msgid ""
+"The following identity providers cannot be removed because they are used in "
+"organizations. Please unassign identity providers from the organizations and"
+" try again."
+msgstr ""
+"I seguenti fornitori di identità non possono essere rimossi perché sono "
+"utilizzati nelle organizzazioni. Si prega di deselezionare i fornitori di "
+"identità dalle organizzazioni e riprovare."
+
+msgid "Organization with identifier '%s' already exists."
+msgstr "L'organizzazione con identificatore '%s' esiste già."
+
+msgid "Prompt"
+msgstr "Prompt"
+
+msgid "Use refresh token"
+msgstr "Usa token di aggiornamento"
+
+msgid "Login"
+msgstr "Login"
+
+msgid ""
+"Identity provider identifier '%s' already exists. Please type different "
+"identifier."
+msgstr ""
+"Identificatore del fornitore di identità '%s' esiste già. Si prega di "
+"digitare un identificatore diverso."
+
+msgid "Additional options"
+msgstr "Opzioni aggiuntive"
+
+msgid "Post logout redirect URI"
+msgstr "URI di reindirizzamento dopo logout"
+
+msgid ""
+"Client version should be the same or lower than the Director and Storage "
+"Daemon version."
+msgstr ""
+"La versione del client dovrebbe essere la stessa o inferiore alla versione "
+"del Direttore e del Daemon di archiviazione."
+
+msgid "Director version"
+msgstr "Versione del direttore"
+
+msgid "Client version"
+msgstr "Versione del client"
+
+msgid "Current components"
+msgstr "Componenti attuali"
+
+msgid "Possible compatibility issue"
+msgstr "Possibile problema di compatibilità"
+
+msgid "Storage Daemon version should be the same as the Director version."
+msgstr ""
+"La versione del Daemon di archiviazione dovrebbe essere la stessa della "
+"versione del Direttore."
+
+msgid "Storage Daemon version"
+msgstr "Versione del Daemon di archiviazione"
+
+msgid "Select the roles you want to assign to the selected users."
+msgstr "Seleziona i ruoli che desideri assegnare agli utenti selezionati."
+
+msgid "Assign user roles"
+msgstr "Assegna ruoli utente"
+
+msgid "Error while assigning user roles."
+msgstr "Errore durante l'assegnazione dei ruoli utente."
+
+msgid "Unassign user roles"
+msgstr "Deseleziona i ruoli utente"
+
+msgid "Select the roles you want to unassign from the selected users."
+msgstr "Seleziona i ruoli che desideri rimuovere dagli utenti selezionati."
+
+msgid "Note"
+msgstr "Nota"
+
+msgid ""
+"User must have at least one role assigned. This function protects against "
+"unassigning all roles and always keeps at least one role assigned to user."
+msgstr ""
+"L'utente deve avere almeno un ruolo assegnato. Questa funzione protegge "
+"dalla rimozione di tutti i ruoli e mantiene sempre almeno un ruolo assegnato"
+" all'utente."
+
+msgid "Unassign roles"
+msgstr "Rimuovi ruoli"
+
+msgid "Error while unassigning user roles."
+msgstr "Errore durante la rimozione dei ruoli utente."
+
+msgid "Set organization"
+msgstr "Imposta organizzazione"
+
+msgid "Set user organization"
+msgstr "Imposta organizzazione utente"
+
+msgid ""
+"Select the organization to which you want to assign the selected users."
+msgstr ""
+"Seleziona l'organizzazione a cui desideri assegnare gli utenti selezionati."
+
+msgid "Error while setting user organization."
+msgstr "Errore durante l'impostazione dell'organizzazione utente."
+
+msgid ""
+"The following selected users could not be assigned to the destination "
+"organization because the same users already exists there:"
+msgstr ""
+"Gli utenti selezionati non potrebbero essere assegnati all'organizzazione di"
+" destinazione perché gli stessi utenti esistono già lì:"
+
+msgid "Set API hosts or API host groups"
+msgstr "Imposta host API o gruppi di host API"
+
+msgid "Set API hosts or groups"
+msgstr "Imposta host API o gruppi"
+
+msgid ""
+"Select API hosts or API host groups that you want to set for the selected "
+"users."
+msgstr ""
+"Seleziona host API o gruppi di host API che desideri impostare per gli "
+"utenti selezionati."
+
+msgid ""
+"Previous user API host setting will be overwritten by this new setting."
+msgstr ""
+"Le impostazioni precedenti dell'host API dell'utente verranno sovrascritte "
+"da questa nuova impostazione."
+
+msgid "Error while setting API host method for users."
+msgstr "Errore durante l'impostazione del metodo di host API per gli utenti."
+
+msgid "Web access"
+msgstr "Accesso web"
+
+msgid "Add web access"
+msgstr "Aggiungi accesso web"
+
+msgid ""
+"The web access URLs can be used for different automations. This allows to "
+"create URLs that grant controlled access to selected actions (such as run "
+"backup). There can be configured various time, usage and IP address access "
+"limits. The configuration can be customized for each web access URL "
+"individually."
+msgstr ""
+"Gli URL di accesso web possono essere utilizzati per diverse automazioni. "
+"Ciò consente di creare URL che consentono un accesso controllato ad azioni "
+"selezionate (come l'esecuzione del backup). Possono essere configurati vari "
+"limiti di accesso in termini di tempo, utilizzo e indirizzo IP. La "
+"configurazione può essere personalizzata per ogni URL di accesso web "
+"individualmente."
+
+msgid "Time access"
+msgstr "Accesso al tempo"
+
+msgid "Usage access"
+msgstr "Accesso all’utilizzo"
+
+msgid "Source access"
+msgstr "Accesso alla sorgente"
+
+msgid "Resource action"
+msgstr "Azione sulla risorsa"
+
+msgid "Resource params"
+msgstr "Parametri della risorsa"
+
+msgid "Access URL"
+msgstr "URL di accesso"
+
+msgid "Stats"
+msgstr "Statistiche"
+
+msgid "Resource type"
+msgstr "Tipo di risorsa"
+
+msgid "Create time"
+msgstr "Data di creazione"
+
+msgid "Access time"
+msgstr "Ora di accesso"
+
+msgid "Action target"
+msgstr "Obiettivo dell’azione"
+
+msgid "Access limits"
+msgstr "Limiti di accesso"
+
+msgid "valid all the time (until manual remove)"
+msgstr "sempre valido (fino alla rimozione manuale)"
+
+msgid "valid for X days from now"
+msgstr "valido per X giorni da adesso"
+
+msgid "Validity days"
+msgstr "Giorni di validità"
+
+msgid "valid between date X and Y"
+msgstr "valido tra la data X e Y"
+
+msgid "From date"
+msgstr "Dalla data"
+
+msgid "To date"
+msgstr "Alla data"
+
+msgid "one-time use"
+msgstr "utilizzo singolo"
+
+msgid "X number of uses"
+msgstr "numero di utilizzi X"
+
+msgid "unlimited number of uses"
+msgstr "numero illimitato di utilizzi"
+
+msgid "Number of uses"
+msgstr "Numero di utilizzi"
+
+msgid "access for given IP addresses"
+msgstr "accesso per determinati indirizzi IP"
+
+msgid "Allowed IP addresses (comma separated)"
+msgstr "Indirizzi IP consentiti (separati da virgola)"
+
+msgid "Modify action parameters"
+msgstr "Modifica parametri azione"
+
+msgid "Run job action params"
+msgstr "Esegui parametri azione job"
+
+msgid "Params"
+msgstr "Parametri"
+
+msgid "See resource params"
+msgstr "Vedi parametri della risorsa"
+
+msgid "See statistics"
+msgstr "Vedi statistiche"
+
+msgid "Edit web access"
+msgstr "Modifica accesso web"
+
+msgid "Not used yet"
+msgstr "Non ancora utilizzato"
+
+msgid "Valid from"
+msgstr "Valido da"
+
+msgid "Valid to"
+msgstr "Valido fino a"
+
+msgid "Number of days"
+msgstr "Numero di giorni"
+
+msgid "Valid for"
+msgstr "Valido per"
+
+msgid "Time state"
+msgstr "Stato temporale"
+
+msgid "Max. usage"
+msgstr "Utilizzo massimo"
+
+msgid "Usage left"
+msgstr "Utilizzi rimanenti"
+
+msgid "Usage state"
+msgstr "Stato utilizzo"
+
+msgid "Date range"
+msgstr "Intervallo di date"
+
+msgid "Valid"
+msgstr "Valido"
+
+msgid "Numer of use"
+msgstr "Numero di utilizzi"
+
+msgid "Web access statistics"
+msgstr "Statistiche accesso web"
+
+msgid "IP addr. restriction"
+msgstr "Restrizione indirizzo IP"
+
+msgid "For X days"
+msgstr "Per X giorni"
+
+msgid "One-time use"
+msgstr "Utilizzo singolo"
+
+msgid "Web access parameters"
+msgstr "Parametri di accesso web"
+
+msgid "Number of latest jobs in table on dashboard"
+msgstr "Numero di job recenti nella tabella del cruscotto"
+
