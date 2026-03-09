@@ -1891,9 +1891,6 @@ msgstr "Impostazioni applicazione"
 msgid "Update slots"
 msgstr "Aggiorna slot"
 
-msgid "Max. number of jobs"
-msgstr "Num. massimo di lavori visibili nelle tabelle"
-
 msgid "Max. number of jobs value must be integer greather than 0."
 msgstr ""
 "Il valore del num. massimo di lavori deve essere un intero maggiore di 0."
@@ -4674,9 +4671,6 @@ msgstr "browser piatto"
 
 msgid "tree browser"
 msgstr "browser ad albero"
-
-msgid "Job age for graphs"
-msgstr "Età del lavoro sulle grafiche di lavoro della dashboard"
 
 msgid ""
 "Set age for jobs to display the job graphs on the dashboard page. Setting "
@@ -8157,7 +8151,4 @@ msgstr "Utilizzo singolo"
 
 msgid "Web access parameters"
 msgstr "Parametri di accesso web"
-
-msgid "Number of recent jobs"
-msgstr "Numero di job recenti nella tabella del cruscotto"
 
