@@ -1118,9 +1118,6 @@ msgstr "Administrador"
 msgid "Normal user"
 msgstr "Usuario normal"
 
-msgid "Add new user"
-msgstr "Añadir nuevo usuario"
-
 msgid "Username:"
 msgstr "Nombre de usuario:"
 
@@ -1648,7 +1645,7 @@ msgstr "Risorsa da creare:"
 msgid "Create"
 msgstr "Crea"
 
-msgid "Add new resource"
+msgid "Add resource"
 msgstr "Aggiungi nuova risorsa"
 
 msgid "Please select host"
@@ -1944,7 +1941,7 @@ msgid "If your FileSet for this backup does not exist yet, you can create it."
 msgstr ""
 "Se il tuo set di file per questo backup non esiste ancora, puoi crearlo."
 
-msgid "Add new FileSet"
+msgid "Add FileSet"
 msgstr "Aggiungi nuovo set di file"
 
 msgid "New FileSet"
@@ -2009,13 +2006,13 @@ msgstr "Altre direttive"
 msgid "Step 6 - summary"
 msgstr "Passaggio 6 - riepilogo"
 
-msgid "Add new Pool"
+msgid "Add Pool"
 msgstr "Aggiungi un nuovo Pool"
 
 msgid "New Pool"
 msgstr "Nuovo Pool"
 
-msgid "Add new Schedule"
+msgid "Add Schedule"
 msgstr "Aggiungi un nuovo Orario"
 
 msgid "New Schedule"
@@ -2891,9 +2888,6 @@ msgstr "Nome del ruolo"
 msgid "Resources"
 msgstr "Risorse"
 
-msgid "Add new role"
-msgstr "Aggiungi un nuovo ruolo"
-
 msgid "Role field cannot be empty."
 msgstr "Il campo del ruolo non può essere vuoto."
 
@@ -3232,9 +3226,6 @@ msgstr "Autenticazione utente locale"
 msgid "Console ACLs"
 msgstr "ACL console"
 
-msgid "Add new console"
-msgstr "Aggiungi nuova console"
-
 msgid "Edit console"
 msgstr "Modifica console"
 
@@ -3247,7 +3238,7 @@ msgstr "Client OAuth2"
 msgid "Short name"
 msgstr "Nome breve"
 
-msgid "Add new OAuth2 client"
+msgid "Add OAuth2 client"
 msgstr "Aggiungi nuovo client OAuth2"
 
 msgid "Short name:"
@@ -3261,9 +3252,6 @@ msgstr "imposta tutti gli ambiti"
 
 msgid "Edit OAuth2 client account"
 msgstr "Modifica account client OAuth2"
-
-msgid "Add new API host"
-msgstr "Aggiungi nuovo host API"
 
 msgid "Get existing API host settings:"
 msgstr "Ottieni le impostazioni dell'host API esistente:"
@@ -4354,7 +4342,7 @@ msgstr ""
 "Bacularis sulla scheda 'API hosts'. Gli account utente di base sono anche "
 "possibili da creare direttamente nel pannello dell'API Bacularis."
 
-msgid "Add new API basic user"
+msgid "Add API basic user"
 msgstr "Aggiungi nuovo utente API di base"
 
 msgid "API basic username:"
@@ -5501,9 +5489,6 @@ msgid "Add new component to current Director (for client and storage only)"
 msgstr ""
 "Aggiungi nuovo componente al Direttore corrente (solo per client e storage)"
 
-msgid "Add new OS profile"
-msgstr "Aggiungi nuovo profilo OS"
-
 msgid "Repository type"
 msgstr "Tipo di repository"
 
@@ -5575,9 +5560,6 @@ msgstr ""
 "NOTA: Questo è un profilo OS predefinito che non può essere modificato né "
 "eliminato."
 
-msgid "Add new SSH config"
-msgstr "Aggiungi nuova configurazione SSH"
-
 msgid "Hostname"
 msgstr "Nome host"
 
@@ -5595,9 +5577,6 @@ msgstr "Modifica configurazione SSH"
 
 msgid "SSH config with the given name already exists."
 msgstr "La configurazione SSH con il nome dato esiste già."
-
-msgid "Add new SSH key"
-msgstr "Aggiungi nuova chiave SSH"
 
 msgid "Key name"
 msgstr "Nome chiave"
@@ -5737,7 +5716,7 @@ msgstr "Pool Virtual Full"
 msgid "Storage to write Virtual Full"
 msgstr "Archiviazione per scrivere Virtual Full"
 
-msgid "Add new Virtual Full Pool"
+msgid "Add Virtual Full Pool"
 msgstr "Aggiungi nuovo Pool Virtual Full"
 
 msgid "Select the pool and storage that will write Virtual Full."
@@ -5893,9 +5872,6 @@ msgstr "Metodo host API"
 
 msgid "API host groups"
 msgstr "Gruppi host API"
-
-msgid "Add new API host group"
-msgstr "Aggiungi nuovo gruppo host API"
 
 msgid "API group name"
 msgstr "Nome gruppo API"
@@ -6478,9 +6454,6 @@ msgstr "L'autenticazione del repo con il nome dato esiste già."
 
 msgid "Repo auths"
 msgstr "Autenticazioni repo"
-
-msgid "Add new repo auth"
-msgstr "Aggiungi nuova autenticazione repo"
 
 msgid "Repo auth name"
 msgstr "Nome dell'autenticazione repo"
@@ -7344,7 +7317,7 @@ msgstr ""
 "aggiungere due chiavi di sicurezza per poter effettuare l'accesso anche "
 "quando si perde la chiave principale."
 
-msgid "Add new security key"
+msgid "Add security key"
 msgstr "Aggiungi una nuova chiave di sicurezza"
 
 msgid "Are you sure you want to remove key '%key_name'?"
@@ -7663,9 +7636,6 @@ msgstr "Nuovo ruolo utente"
 msgid "New user API host"
 msgstr "Nuovo host API utente"
 
-msgid "Add new identity provider"
-msgstr "Aggiungi nuovo fornitore di identità"
-
 msgid "Edit identity provider"
 msgstr "Modifica fornitore di identità"
 
@@ -7766,9 +7736,6 @@ msgstr "Chiave pubblica (formato PEM)"
 
 msgid "Public key ID"
 msgstr "ID chiave pubblica"
-
-msgid "Add new organization"
-msgstr "Aggiungi nuova organizzazione"
 
 msgid "Add organization"
 msgstr "Aggiungi organizzazione"
